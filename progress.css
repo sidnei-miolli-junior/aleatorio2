@@ -1,0 +1,33 @@
+.titulo{
+    margin-left:0%;
+    background-color: white;
+    margin-bottom: 80px;
+    font-family: sans-serif;
+}
+.titulo2{
+    margin-left:35%;
+    color: white;
+    font-family: sans-serif;
+}
+body{
+    background-image: url(fundo.jpg);
+}
+.textheader{
+    margin-left: 30%;
+}
+.notebook{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+.anuncios{
+    margin-top:90px;
+    margin-left: 90px;
+}
+.note{
+    width:200px;
+    height:150px;
+    margin-left: 26px;
+}
